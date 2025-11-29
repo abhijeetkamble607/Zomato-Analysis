@@ -1,37 +1,84 @@
-#  Zomato Analysis Dashboard – Excel & Tableau
+#  Zomato Analysis Dashboard – Excel & Tableau Project
 
-A simple and interactive dashboard analyzing Zomato restaurant data using **Excel** for cleaning and **Tableau** for visualization.  
-The dashboard provides key insights on restaurant availability, pricing, bookings, delivery, and city-wise distribution.
-
----
-
-## 📊 Key Features
-- **8.65K Restaurants**, **43 Cities**, **3 Avg Rating**
-- Table Booking: **12.84% Yes**, **87.16% No**
-- Online Delivery: **28% Yes**, **72% No**
-- Price Buckets: Low ($4), Medium ($9), High ($18), Luxury ($38)
-- Restaurant openings from **2009–2019**
-- Interactive **India map** showing major restaurant locations
+This project presents an interactive **Zomato Restaurant Analysis Dashboard** built using **Excel** for data preprocessing and **Tableau** for visualization.  
+It provides insights into restaurant distribution, customer preferences, pricing buckets, and growth over time.
 
 ---
 
-## 🛠 Tools Used
-- **Excel** → Data cleaning & preprocessing  
-- **Tableau** → Dashboard creation & visualization  
+## 📊 Project Overview
+
+The goal of this project is to analyze restaurant availability, cuisine patterns, cost structures, and user behavior using the Zomato dataset.  
+The dashboard allows users to filter by **Country** and explore key restaurant metrics across major cities.
+
+---
+
+## 🔧 Tech Stack Used
+
+| Tool | Purpose |
+|------|---------|
+| **Excel** | Data cleaning, transformation, preprocessing |
+| **Tableau** | Interactive dashboard creation |
+| **Maps & Charts** | Geospatial and KPI visualization |
+
+---
+
+## 🚀 Key Insights & Features
+
+### 🔹 High-Level KPIs
+- **8.65K** Total Restaurants  
+- **43** Total Cities  
+- **3** Average Rating  
+- **₹5.61M** Average Price (Indian Rupees)  
+- **1** Country (India)
+
+---
+
+### 🔹 Booking & Delivery Insights
+- **Has Table Booking**  
+  - Yes → **12.84%**  
+  - No → **87.16%**
+
+- **Has Online Delivery**  
+  - Yes → **28.0%**  
+  - No → **72.0%**
+
+---
+
+### 🔹 Price Bucket Analysis (Avg. Cost for Two)
+- **Low:** $4  
+- **Medium:** $9  
+- **High:** $18  
+- **Luxury:** $38  
+
+---
+
+### 🔹 Restaurant Growth Over Time (2009–2019)
+Time-series analysis showing restaurant openings year-over-year.
+
+---
+
+### 🔹 Geospatial Restaurant Distribution
+The dashboard visualizes restaurant locations across major Indian cities including:
+
+- Delhi NCR  
+- Mumbai  
+- Bengaluru  
+- Hyderabad  
+- Chennai  
+- Pune  
+- Kolkata  
+- Jaipur  
+…and more.
 
 ---
 
 ##  Dashboard Preview
-  
-![Dashboard](Zomato_Dashboard.png)
 
----
 
-## 📂 Files Included
-- `Zomato_Dataset.xlsx`  
-- `Zomato_Analysis_Dashboard.twbx`  
-- Dashboard screenshot  
-- README
+
+![Dashboard Preview](Zomato_Dashboard.png)
+
+
 
 
 
