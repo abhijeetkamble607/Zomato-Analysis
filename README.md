@@ -68,15 +68,11 @@ The dashboard visualizes restaurant locations across major Indian cities includi
 - Pune  
 - Kolkata  
 - Jaipur  
-…and more.
+
 
 ---
 
-##  Dashboard Preview
 
-
-
-![Dashboard Preview](Zomato_Dashboard.png)
 
 
 
